@@ -2,7 +2,7 @@ Hi 👋 My name is Huy Huynh
 ============================
 I love AI and Full-stack
 ------------------------------------------------
-Soon to be grad with a Bachelor's of Applied Computer Science. (December 2025)
+Soon to be grad with Bachelor's of Applied Computer Science. (December 2025)
 
 ## Current Roles & Experience
 - Perplexity AI Campus Partner
