@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi 👋 My name is Huy Huynh
+============================
+I love AI and Full-stack
+------------------------------------------------
+Soon to be grad with a Bachelor's of Applied Computer Science. (December 2025)
 
-<!--
-**GHuyHuynh/GHuyHuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Roles & Experience
+- Perplexity AI Campus Partner
+- Internship (Previous):
+  - AI Developer @Government of Nova Scotia
+  - Full-stack Developer @Government of Nova Scotia  
+- Member of Dalhousie Computer Science Leaders society (Dal CSL)
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=ts,js,py,go,nodejs)](https://skillicons.dev)
+
+### Frontend Web Development
+[![Frontend Web Development](https://skillicons.dev/icons?i=react,next,tailwind,vite)](https://skillicons.dev)
+
+### Backend Web Development
+[![Backend Web Development](https://skillicons.dev/icons?i=express,fastapi)](https://skillicons.dev)
+
+### Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase)](https://skillicons.dev)
+
+### Devops
+[![Devops](https://skillicons.dev/icons?i=aws,azure,docker,linux,terraform,postman,git)](https://skillicons.dev)
+
+### Others
+[![Others Skills](https://skillicons.dev/icons?i=bun,vercel,pnpm)](https://skillicons.dev)
